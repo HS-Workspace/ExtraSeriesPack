@@ -1,0 +1,33 @@
+info:
+  namespace: es
+font_images:
+  storage:
+    symbol: "ᇗ"
+    path: ui/storage
+    scale_ratio: 256
+    y_position: 19
+  filter:
+    symbol: "ᇘ"
+    path: ui/filter
+    scale_ratio: 256
+    y_position: 19
+  partner:
+    symbol: "ᇚ"
+    path: ui/partner
+    scale_ratio: 256
+    y_position: 19
+  sell:
+    symbol: "ᇙ"
+    path: ui/sell
+    scale_ratio: 256
+    y_position: 19
+  whitelist:
+    symbol: "ᇛ"
+    path: ui/whitelist
+    scale_ratio: 256
+    y_position: 19
+  shift:
+    symbol: "ᇖ"
+    path: 'null'
+    scale_ratio: -10
+    y_position: -32768

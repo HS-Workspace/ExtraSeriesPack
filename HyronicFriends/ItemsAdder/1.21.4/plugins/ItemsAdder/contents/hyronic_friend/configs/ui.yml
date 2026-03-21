@@ -1,0 +1,63 @@
+info:
+  namespace: hyronic_friend
+font_images:
+  main_menu:
+    path: gui/main_menu
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훘
+  friend_list:
+    path: gui/friend_list
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훢
+  friend_request:
+    path: gui/friend_request
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훙
+  mail_box:
+    path: gui/mail_box
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훚
+  friend_settings:
+    path: gui/friend_settings
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훛
+  blocked_list:
+    path: gui/blocked_list
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훜
+  read_mail:
+    path: gui/read_mail
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훝
+  mail_detail:
+    path: gui/mail_detail
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훞
+  send_mail:
+    path: gui/mail_send 
+    scale_ratio: 256
+    y_position: 19
+    symbol: 훟
+  online:
+    path: label/online 
+    scale_ratio: 14
+    y_position: 7
+    symbol: 훠
+  offline:
+    path: label/offline 
+    scale_ratio: 14
+    y_position: 7
+    symbol: 훡
+  gui_shift:
+    path: 'null'
+    scale_ratio: -10
+    y_position: -32768
+    symbol: 훣

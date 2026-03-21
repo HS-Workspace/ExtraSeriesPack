@@ -1,0 +1,1 @@
+COPY the contents of the texture pack here.

@@ -1,0 +1,13 @@
+info:
+  namespace: es
+items:
+
+  icon_back_orange:
+    enabled: true
+    display_name: Empty
+    resource:
+      material: FEATHER
+      model_id: 9999
+      generate: true
+      textures:
+        - empty
