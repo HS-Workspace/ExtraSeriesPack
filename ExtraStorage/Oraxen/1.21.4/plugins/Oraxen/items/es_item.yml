@@ -1,0 +1,19 @@
+empty:
+  displayname: Item Slot
+  material: FEATHER
+  Pack:
+    generate_model: true
+    custom_model_data: 9999
+    parent_model: item/generated
+    textures:
+    - es/empty
+
+# rename-feather:
+#   displayname: <#6f737d>Item Slot
+#   material: FLINT
+#   Pack:
+#     generate_model: true
+#     custom_model_data: 1
+#     parent_model: item/generated
+#     textures:
+#     - ae/items/rename-feather

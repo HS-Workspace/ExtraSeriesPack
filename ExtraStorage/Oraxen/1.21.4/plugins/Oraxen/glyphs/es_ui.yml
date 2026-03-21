@@ -1,0 +1,35 @@
+storage:
+  texture: es/ui/storage
+  code: 4567
+  ascent: 19
+  height: 256
+
+filter:
+  texture: es/ui/filter
+  code: 4568
+  ascent: 19
+  height: 256
+
+sell:
+  texture: es/ui/sell
+  code: 4569
+  ascent: 19
+  height: 256
+
+partner:
+  texture: es/ui/partner
+  code: 4570
+  ascent: 19
+  height: 256
+
+whitelist:
+  texture: es/ui/whitelist
+  code: 4571
+  ascent: 19
+  height: 256
+
+shift:
+  texture: es/null
+  code: 4566
+  ascent: -32768
+  height: -10

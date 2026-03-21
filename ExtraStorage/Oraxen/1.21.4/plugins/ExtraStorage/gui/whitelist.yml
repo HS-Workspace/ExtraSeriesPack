@@ -1,0 +1,67 @@
+Settings:
+  #The title of GUI:
+  Title: '&fᇖᇛ'
+  #Rows on GUI:
+  # * The value can only be from 1 to 6.
+  Rows: 6
+
+  #Plays a sound when the player interacts on GUI:
+  #Empty the string (like below) will disable this feature.
+  #Sound: ''
+  Sound: 'ui_button_click'
+
+#This icon represents items are whitelisted.
+RepresentItem:
+  Name: ''
+  #Lore: []
+  Lore:
+  - ''
+  - '&c* By removing this item, it'
+  - '&cwill no longer be picked up'
+  - '&cto the player''s storage.'
+  - ''
+  - '&8[&6Click&8] &7Remove this item.'
+  #List of positions for this icon:
+  Slots: [11-17, 20-26, 29-35, 38-44]
+
+# * Please do not delete any items in this section.
+# * If you don't want to display these items on GUI, just set their slot to -1.
+ControlItems:
+  #Back to previous page:
+  PreviousPage:
+    Material: 'FEATHER'
+    CustomModelData: 9999
+    Name: '&8[&6ᴄʟɪᴄᴋ&8] #dcdde1ᴘʀᴇᴠɪᴏᴜs ᴘᴀɢᴇ'
+    Lore:
+    - '&7ᴄᴜʀʀᴇɴᴛ ᴘᴀɢᴇ: &f{page}&7/&c{max_pages}'
+    Slots: [47,48]
+  #Go to next page:
+  NextPage:
+    Material: 'FEATHER'
+    CustomModelData: 9999
+    Name: '&8[&6ᴄʟɪᴄᴋ&8] #dcdde1ɴᴇxᴛ ᴘᴀɢᴇ'
+    Lore:
+    - '&7ᴄᴜʀʀᴇɴᴛ ᴘᴀɢᴇ: &f{page}&7/&c{max_pages}'
+    Slots: [52,53]
+
+  #Sorting items by name:
+  SortByName:
+    Material: 'FEATHER'
+    CustomModelData: 9999
+    Name: '#dcdde1sᴏʀᴛ sᴛᴏʀᴀɢᴇ ᴄᴏɴᴛᴇɴᴛ'
+    Lore:
+    - ''
+    - '&2→ &aSort by name'
+    - ''
+    - '&8[&6ʟ.ᴄʟɪᴄᴋ&8] &7Sorting A - Z'
+    - '&8[&6R-Click&8] &7Sorting Z - A'
+    Slot: 50
+
+#These are decorative items, which will make your GUI more beautiful!
+#You can add/delete items in this section.
+DecorateItems:
+  border:
+    Material: 'FEATHER'
+    CustomModelData: 9999
+    Name: ' '
+    Slots: [47-54]
