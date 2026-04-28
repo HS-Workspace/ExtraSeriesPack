@@ -1,0 +1,36 @@
+empty:
+  itemname: Empty Item
+  material: FLINT
+  Pack:
+    generate_model: true
+    parent_model: item/generated
+    custom_model_data: 9999
+    textures:
+    - hyronic_friends/empty
+next_button:
+  itemname: Next Button
+  material: FLINT
+  Pack:
+    generate_model: true
+    parent_model: item/generated
+    custom_model_data: 9998
+    textures:
+    - hyronic_friends/button/next_button
+previous_button:
+  itemname: Previous Button
+  material: FLINT
+  Pack:
+    generate_model: true
+    parent_model: item/generated
+    custom_model_data: 9997
+    textures:
+    - hyronic_friends/button/previous_button
+setting_active:
+  itemname: Previous Button
+  material: FLINT
+  Pack:
+    generate_model: true
+    parent_model: item/generated
+    custom_model_data: 9996
+    textures:
+    - hyronic_friends/button/setting_active

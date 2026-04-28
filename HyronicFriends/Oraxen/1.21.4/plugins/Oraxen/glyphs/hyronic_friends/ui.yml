@@ -1,0 +1,60 @@
+main_menu:
+  texture: hyronic_friends/gui/main_menu
+  height: 256
+  ascent: 19
+  char: 훘
+friend_list:
+  texture: hyronic_friends/gui/friend_list
+  height: 256
+  ascent: 19
+  char: 훢
+friend_request:
+  texture: hyronic_friends/gui/friend_request
+  height: 256
+  ascent: 19
+  char: 훙
+mail_box:
+  texture: hyronic_friends/gui/mail_box
+  height: 256
+  ascent: 19
+  char: 훚
+friend_settings:
+  texture: hyronic_friends/gui/friend_settings
+  height: 256
+  ascent: 19
+  char: 훛
+blocked_list:
+  texture: hyronic_friends/gui/blocked_list
+  height: 256
+  ascent: 19
+  char: 훜
+read_mail:
+  texture: hyronic_friends/gui/read_mail
+  height: 256
+  ascent: 19
+  char: 훝
+mail_detail:
+  texture: hyronic_friends/gui/mail_detail
+  height: 256
+  ascent: 19
+  char: 훞
+send_mail:
+  texture: hyronic_friends/gui/mail_send
+  height: 256
+  ascent: 19
+  char: 훟
+online:
+  texture: hyronic_friends/label/online
+  height: 14
+  ascent: 7
+  char: 훠
+offline:
+  texture: hyronic_friends/label/offline
+  height: 14
+  ascent: 7
+  char: 훡
+gui_shift:
+  texture: hyronic_friends/null
+  height: -10
+  ascent: -32768
+  char: 훣
