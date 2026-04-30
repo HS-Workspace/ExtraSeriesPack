@@ -28,14 +28,14 @@ RepresentItems:
     #Texture: 'hdb-<id>' #Using for HeadDatabase plugin.
     #Texture: '%player%' #Display the friend's head.
     Texture: '%player%' #May not need to configure.
-    CustomModelData: 2 #May not need to configure.
+    ItemModel: "minecraft:ui/avt_setting" #May not need to configure.
     Enchantments: [] #May not need to configure.
     #- 'durability:10'
     HideFlags: [] #May not need to configure.
     #- 'HIDE_ENCHANTS'
   OfflinePlayer:
     Texture: '%player%'
-    CustomModelData: 2
+    ItemModel: "minecraft:ui/avt_setting"
 
 ControlItems:
   Back:

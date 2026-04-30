@@ -14,11 +14,11 @@ Settings:
 ControlItems:
   Sender:
     Texture: '%player%'
-    CustomModelData: 3
+    ItemModel: "minecraft:ui/2d"
     Slot: 2
   Receiver:
     Texture: '%player%'
-    CustomModelData: 3
+    ItemModel: "minecraft:ui/2d"
     Slot: 8
   Information:
     Material: FLINT

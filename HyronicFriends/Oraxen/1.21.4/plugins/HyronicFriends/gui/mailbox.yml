@@ -30,14 +30,14 @@ RepresentItems:
     #Texture: 'hdb-<id>' #Using for HeadDatabase plugin.
     #Texture: '%player%' #Display the sender's head.
     Texture: '%player%' #May not need to configure.
-    CustomModelData: 3 #May not need to configure.
+    ItemModel: "minecraft:ui/2d" #May not need to configure.
     Enchantments: [] #May not need to configure.
     #- 'durability:10'
     HideFlags: [] #May not need to configure.
     #- 'HIDE_ENCHANTS'
   MailsReceived:
     Texture: '%player%'
-    CustomModelData: 3
+    ItemModel: "minecraft:ui/2d"
 
 ControlItems:
   PreviousPage:

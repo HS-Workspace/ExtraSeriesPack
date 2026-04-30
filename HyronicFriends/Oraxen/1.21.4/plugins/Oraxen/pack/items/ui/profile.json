@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "special",
+    "base": "minecraft:ui/profile",
+    "model": {
+      "type": "player_head"
+    }
+  }
+}

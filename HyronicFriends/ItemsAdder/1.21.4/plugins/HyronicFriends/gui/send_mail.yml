@@ -18,7 +18,7 @@ RepresentItems:
 ControlItems:
   Receiver:
     Texture: '%player%'
-    CustomModelData: 3
+    ItemModel: "minecraft:ui/2d"
     Slot: 5
   Confirm:
     Material: FLINT

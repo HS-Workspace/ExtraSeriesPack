@@ -27,7 +27,7 @@ RepresentItem:
   #Texture: 'hdb-<id>' #Using for HeadDatabase plugin.
   #Texture: '%player%' #Display the player's head.
   Texture: '%player%' #May not need to configure.
-  CustomModelData: 3 #May not need to configure.
+  ItemModel: "minecraft:ui/2d" #May not need to configure.
   Enchantments: [] #May not need to configure.
   #- 'durability:10'
   HideFlags: [] #May not need to configure.

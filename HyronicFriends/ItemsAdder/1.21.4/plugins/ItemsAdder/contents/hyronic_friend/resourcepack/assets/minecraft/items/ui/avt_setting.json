@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "special",
+    "base": "minecraft:ui/avt_setting",
+    "model": {
+      "type": "player_head"
+    }
+  }
+}
